@@ -100,7 +100,7 @@
                     </p>
                 </div>
                 <div class="col-lg-3 cta-btn-container text-center">
-                    <a class="cta-btn align-middle" href="#">Hubungi Kami</a>
+                    <a class="cta-btn align-middle" href="/contact">Hubungi Kami</a>
                 </div>
             </div>
         </div>
@@ -120,7 +120,7 @@
                 <div class="row" id="category-wrapper">
                     @foreach ($categories as $category)
                         <div class="col-md-4 col-sm-12 category-item filter-app">
-                            <a href="">
+                            <a>
                                 <img src="{{ asset('category_image/' . $category->image) }}" class="image-center">
                                 <div class="details">
                                     <h4>{{ $category->name }}</h4>
