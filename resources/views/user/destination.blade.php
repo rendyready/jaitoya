@@ -25,7 +25,7 @@
 @endsection
 
 @section('hero')
-    <h1>Galeri Jahit & Vermak dari Jait Oya</h1>
+    <h1>Story Frame Jahit & Vermak dari Jait Oya</h1>
     <h2>Setiap jahitan punya cerita—temukan inspirasi gayamu di sini</h2>
 @endsection
 

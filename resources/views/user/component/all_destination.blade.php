@@ -1,7 +1,7 @@
 @if (count($destinations) != 0)
     <div class=" wow fadeInUp">
         <div class="section-header">
-            <h3 class="section-title">Galeri Jait Oya</h3>
+            <h3 class="section-title">Kumpulan Story Frame Jait Oya</h3>
             <p class="section-description">Lihat hasil jahitan dan permak terbaik dari Jait Oya sebagai inspirasi Anda.
             </p>
         </div>
